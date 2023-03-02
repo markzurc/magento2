@@ -1,0 +1,15 @@
+.logo-container {
+    display: block;
+    margin: auto;
+}
+
+.logo img {
+    position: relative;
+    top: 50%;
+    left: 50%;
+   height: 50px;
+}
+.navigation ul {
+  margin-left: 380px;
+   
+}
